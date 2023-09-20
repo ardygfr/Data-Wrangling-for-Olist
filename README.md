@@ -1,7 +1,5 @@
 # Analisis Data E-commerce Olist dengan SQL
 
-Logo Olist
-
 Selamat datang di repositori ini, yang berisi analisis data mendalam tentang operasi dan tren penjualan Olist, sebuah platform e-commerce terkemuka di Brazil. Dalam repositori ini, kami menggunakan Structured Query Language (SQL) untuk mengungkap cerita data di balik Olist.
 Tujuan
 
@@ -38,3 +36,5 @@ Dalam analisis ini, kami menyoroti temuan penting yang dapat membantu Olist dala
 Kontribusi
 
 Anda sangat diperbolehkan untuk berkontribusi pada proyek ini dengan mengirimkan pull request dan memberikan masukan berharga.
+
+## Anda Dapat mengakses artikel penuh di medium dengan link : https://medium.com/@ardygfr/unraveling-the-story-of-the-data-through-sql-101b8bd4c81c
